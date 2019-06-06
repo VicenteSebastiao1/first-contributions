@@ -6966,6 +6966,7 @@ Bailey Wong
 - [Rahat](https://github.com/MAHRahat)
 - [Justin Abbott](https://github.com/justinabbott)
 - [Akkshay Lawrence](https://github.com/akkshaylawrence)
+- [Sebastiao Vicente] (https://github.com/vicentesebastiao1)
 - [cek-cek](https://github.com/cek-cek)
 - [Renan Vichetti](https://github.com/rvconessa)
 - [GaganDeep Singh](https://github.com/SGagan)
